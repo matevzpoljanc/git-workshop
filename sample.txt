@@ -1,0 +1,8 @@
+Naslov: Delavnica Git
+
+Dobro jutro!
+
+To je prva vrstica teksta.
+
+So far so good?
+Good.
