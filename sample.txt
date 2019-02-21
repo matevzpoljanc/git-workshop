@@ -3,6 +3,8 @@ Naslov: Delavnica Git
 Dobro jutro!
 
 To je prva vrstica teksta.
+Ta vrstica pa je bila dodana iz druge veje.
+Ta vrstica pa ze iz tretje :D
 
 So far so good?
 Good.
